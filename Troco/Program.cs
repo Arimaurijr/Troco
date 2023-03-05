@@ -6,6 +6,7 @@ namespace Exercicios
     {
         static void Main(string[] args)
         {
+
             double conta = 0.0, valor = 0.0;
             int quociente = 0, resto = 0;
             Console.WriteLine("Digite o valor da conta:");
